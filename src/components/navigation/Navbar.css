@@ -1,0 +1,34 @@
+.Navbar {
+  background: #D3959B;
+  background: -webkit-gradient(linear, left bottom, left top, from(#616060), to(#000000));
+  background: linear-gradient(to top, #616060, #000000);
+}
+
+.Navbar .nav-link {
+  padding: 0.2em;
+  font-size: 14px;
+  color: #00eeff;
+}
+
+@media (min-width: 500px) {
+  .Navbar .nav-link {
+    padding: 0.7em;
+    font-size: unset;
+  }
+}
+
+.Navbar .active-link {
+  background: #D3959B;
+  background: -webkit-gradient(linear, left top, left bottom, from(#BFE6BA), to(#D3959B));
+  background: linear-gradient(to bottom, #BFE6BA, #D3959B);
+}
+
+.Navbar:hover .nav-link {
+  opacity: .5;
+  color: white;
+}
+
+.Navbar .nav-item .nav-link:hover {
+  opacity: 1;
+}
+/*# sourceMappingURL=Navbar.css.map */

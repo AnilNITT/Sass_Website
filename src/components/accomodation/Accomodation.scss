@@ -1,0 +1,20 @@
+.Accomodation {
+  
+  .facility-icons>ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    li>i {
+      color: #D3959B;
+      line-height: 2em;
+      margin: 0 8px 0 15px;
+
+      &:hover {
+        color: #BFE6BA;
+      }
+    }
+  }
+}

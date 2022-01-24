@@ -1,0 +1,13 @@
+@media (max-width: 576px) {
+  .Activities .card-deck {
+    margin: 0 auto !important;
+  }
+  .Activities .card {
+    margin: 2em auto;
+  }
+}
+
+.Activities .activity-btn {
+  letter-spacing: 1px;
+}
+/*# sourceMappingURL=Activities.css.map */

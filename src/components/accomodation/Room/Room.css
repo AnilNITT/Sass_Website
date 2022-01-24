@@ -1,0 +1,61 @@
+.Room .row {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.Room .col-md-8 > img {
+  border-radius: 0.25rem;
+}
+
+.Room .col-md-4 {
+  padding: 50px 30px;
+}
+
+.Room .col-md-4 .feedback {
+  position: absolute;
+  top: 10px;
+  font-size: 14px;
+  font-style: italic;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #d3959b;
+          text-decoration-color: #d3959b;
+}
+
+.Room .col-md-4 .title {
+  text-align: initial;
+}
+
+.Room .col-md-4 ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.Room .col-md-4 ul li > i {
+  padding-right: 7px;
+}
+
+.Room .col-md-4 .room-btn {
+  letter-spacing: 1px;
+}
+
+.fas.fa-male {
+  margin: 0 14px 0 5px;
+}
+
+.fas.fa-glass-martini-alt {
+  margin-right: 9px;
+}
+
+.fas.fa-utensils {
+  margin: 0 7px 0 2px;
+}
+
+.fas.fa-dumbbell {
+  margin-right: 4px;
+}
+
+.fas.fa-spa {
+  margin: 0 2px 0 1px;
+}
+/*# sourceMappingURL=Room.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACE,MAAM,EAAE,SAAS,EAAE,KAAK;EAD1B,AAEI,WAFO,CAEP,UAAU,CAAC;IACT,MAAM,EAAE,iBAAiB;GAC1B;EAJL,AAMI,WANO,CAMP,KAAK,CAAC;IACJ,MAAM,EAAE,QAAQ;GACjB;;;AARL,AAWE,WAXS,CAWT,aAAa,CAAC;EACZ,cAAc,EAAE,GAAG;CACpB",
+    "sources": [
+        "Activities.scss"
+    ],
+    "names": [],
+    "file": "Activities.css"
+}

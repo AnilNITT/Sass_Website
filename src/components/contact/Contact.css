@@ -1,0 +1,38 @@
+.Contact .form-control {
+  border-radius: 15px;
+}
+
+.Contact textarea {
+  resize: none;
+}
+
+.Contact ::-webkit-input-placeholder {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.Contact :-ms-input-placeholder {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.Contact ::-ms-input-placeholder {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.Contact ::placeholder {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.Contact .adress-container span {
+  font-style: italic;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.Contact .contact-btn {
+  letter-spacing: 1px;
+}
+/*# sourceMappingURL=Contact.css.map */
