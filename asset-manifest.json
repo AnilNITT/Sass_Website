@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sass_Website/static/css/main.ce641edb.css",
+    "main.js": "/Sass_Website/static/js/main.b020e82f.js",
+    "static/media/carousel-02.jpg": "/Sass_Website/static/media/carousel-02.5b9b56ffbb04e77bc86f.jpg",
+    "static/media/carousel-05.jpg": "/Sass_Website/static/media/carousel-05.01c0f83ee605a7bca414.jpg",
+    "static/media/carousel-04.jpg": "/Sass_Website/static/media/carousel-04.e96395986aa312342bb6.jpg",
+    "static/media/carousel-01.jpg": "/Sass_Website/static/media/carousel-01.4623e28eb9db4266e7f5.jpg",
+    "static/media/carousel-03.jpg": "/Sass_Website/static/media/carousel-03.bc2d4e55528f504b5d49.jpg",
+    "static/media/accomodation-02.jpeg": "/Sass_Website/static/media/accomodation-02.2d04e81452f2731671ab.jpeg",
+    "static/media/accomodation-01.jpg": "/Sass_Website/static/media/accomodation-01.5faba010e1e3e719c63f.jpg",
+    "static/media/accomodation-04.jpg": "/Sass_Website/static/media/accomodation-04.4b822d7a20c60f83f4de.jpg",
+    "static/media/accomodation-05.jpg": "/Sass_Website/static/media/accomodation-05.c436c4e01eec559bc39e.jpg",
+    "static/media/accomodation-03.jpg": "/Sass_Website/static/media/accomodation-03.e6d13c11c29ab95c1f57.jpg",
+    "static/media/activities-06.jpeg": "/Sass_Website/static/media/activities-06.ea721191e68b5a2eded4.jpeg",
+    "static/media/activities-05.jpeg": "/Sass_Website/static/media/activities-05.93b69068d71f6a94e116.jpeg",
+    "static/media/activities-03.jpeg": "/Sass_Website/static/media/activities-03.e44b9073f2d0d798066c.jpeg",
+    "static/media/activities-02.jpeg": "/Sass_Website/static/media/activities-02.71d0453c285e64194fc6.jpeg",
+    "static/media/activities-01.jpeg": "/Sass_Website/static/media/activities-01.caec05cc3d2f773082b1.jpeg",
+    "static/media/activities-04.jpeg": "/Sass_Website/static/media/activities-04.3d1f51a79cca1ad457f8.jpeg",
+    "index.html": "/Sass_Website/index.html",
+    "main.ce641edb.css.map": "/Sass_Website/static/css/main.ce641edb.css.map",
+    "main.b020e82f.js.map": "/Sass_Website/static/js/main.b020e82f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce641edb.css",
+    "static/js/main.b020e82f.js"
+  ]
+}
